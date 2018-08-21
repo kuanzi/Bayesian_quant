@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  Model compression via distillation and quantization
 
 This code has been written to experiment with quantized distillation and differentiable quantization, techniques developed in our paper ["Model compression via distillation and quantization"](https://arxiv.org/abs/1802.05668).
@@ -104,3 +105,7 @@ The code is licensed under the MIT Licence. See the [LICENSE.md](LICENSE.md) fil
 # Acknowledgements
 
 We would like to thank Ce Zhang  (ETH Zürich), Hantian Zhang (ETH Zürich) and Martin Jaggi (EPFL) for their support with experiments and valuable feedback.
+=======
+# Bayesian_quant
+Bayesian_quant
+>>>>>>> 981318ae7ee63aac87c634a333fe885ae09e9db8
