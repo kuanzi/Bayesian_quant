@@ -1,6 +1,11 @@
 # Bayesian_quant
 Bayesian_quant
 
+CODE BASE:
+[quantized_distillation](https://github.com/antspy/quantized_distillation)
+[pytorch-cifar10](https://github.com/kuangliu/pytorch-cifar)
+
+
 #  Model compression via distillation and quantization
 
 This code has been written to experiment with quantized distillation and differentiable quantization, techniques developed in our paper ["Model compression via distillation and quantization"](https://arxiv.org/abs/1802.05668).
